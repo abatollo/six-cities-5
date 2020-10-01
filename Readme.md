@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Батолло](https://up.htmlacademy.ru/react/5/user/65755).
-* Наставник: [Даниил Царёв](https://up.htmlacademy.ru/ecmascript/12/user/945835).
+* Наставник: [Даниил Царёв](https://up.htmlacademy.ru/react/5/user/945835).
 
 ---
 
