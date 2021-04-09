@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const MainPage = (props) => {
+const Main = (props) => {
   const {placesCount} = props;
 
   return (
@@ -211,7 +211,7 @@ const MainPage = (props) => {
                     </div>
                     <div className="place-card__rating rating">
                       <div className="place-card__stars rating__stars">
-                        <span style={{width: `80%`}}></span>
+                        <span style={{width: `100%`}}></span>
                         <span className="visually-hidden">Rating</span>
                       </div>
                     </div>
@@ -265,8 +265,8 @@ const MainPage = (props) => {
   );
 };
 
-MainPage.propTypes = {
+Main.propTypes = {
   placesCount: PropTypes.number.isRequired,
 };
 
-export default MainPage;
+export default Main;
